@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="2" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9" started-at="2019-09-23T07:22:25Z" finished-at="2019-09-23T07:22:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9" started-at="2019-09-23T07:22:25Z" finished-at="2019-09-23T07:22:25Z">
+      <class name="day_1.testng_demo">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:day_1.testng_demo@7f9a81e8]" name="beforeSuite" is-config="true" duration-ms="15" started-at="2019-09-23T07:22:25Z" finished-at="2019-09-23T07:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:day_1.testng_demo@7f9a81e8]" name="beforeTest" is-config="true" duration-ms="1" started-at="2019-09-23T07:22:25Z" finished-at="2019-09-23T07:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:day_1.testng_demo@7f9a81e8]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-09-23T07:22:25Z" finished-at="2019-09-23T07:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:day_1.testng_demo@7f9a81e8]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-09-23T07:22:25Z" finished-at="2019-09-23T07:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- day_1.testng_demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
